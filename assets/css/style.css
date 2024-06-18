@@ -111,7 +111,7 @@ img {
 */
 
 .container {
-    margin: auto;
+    margin: 123px auto;
     max-width: var(--container-max-width-mobile);
     background: var(--color-neutral);
 }
